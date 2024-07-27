@@ -1,0 +1,4 @@
+(executable
+ (public_name interpreter_in_ocaml)
+ (name main)
+ (libraries interpreter_in_ocaml))

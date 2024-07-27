@@ -1,0 +1,4 @@
+(library
+ (name interpreter_in_ocaml)
+ (libraries core)
+ (preprocess (pps ppx_jane)))
